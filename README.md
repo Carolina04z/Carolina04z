@@ -23,5 +23,5 @@ Estudiante de Ingeniería de Sistemas y Telecomunicaciones en sexto semestre, ap
 ### 📊 Estadísticas de GitHub
 ### 📸 Sobre mí
 <p align="center">
-  <img src="URL_DE_TU_IMAGEN_AQUI" alt="Mi foto de perfil" width="250" />
+  <img src="https://republicanaradio.com/wp-content/uploads/2021/10/Caracteristicas_de_un_Ingeniero_de_sistemas_URepublicacanaRadio_emisora_radio_universitaria_estudiar_bogota_colombia_imag2.jpg" alt="Mi foto de perfil" width="250" />
 </p>

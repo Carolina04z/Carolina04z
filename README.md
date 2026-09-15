@@ -21,6 +21,7 @@ Estudiante de Ingeniería de Sistemas y Telecomunicaciones en sexto semestre, ap
 ---
 
 ### 📊 Estadísticas de GitHub
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Carolina04z&show_icons=true&theme=radical" />
+### 📸 Sobre mí
+<p align="center">
+  <img src="URL_DE_TU_IMAGEN_AQUI" alt="Mi foto de perfil" width="250" />
 </p>

@@ -1,16 +1,26 @@
-## Hi there 👋
+### ¡Hola! 👋 Soy Carolina Zuluaga
 
-<!--
-**Carolina04z/Carolina04z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de Ingeniería de Sistemas y Telecomunicaciones en sexto semestre, apasionada por el desarrollo de software, las bases de datos y la tecnología. 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Sobre mí
+- 💻 Actualmente enfocada en aprender y desarrollar proyectos con Python, C++, SQL y administración de entornos Linux.
+- 🤖 Disfruta construyendo soluciones tecnológicas, desde bases de datos hasta sistemas embebidos e IoT.
+- 🎬 En mi tiempo libre disfruto de la buena música, las películas y compartir con mis amigos y mascotas.
+
+---
+
+### 🛠️ Tecnologías y Herramientas
+
+* **Lenguajes:** Python, C++, SQL
+* **Bases de Datos:** MySQL, MariaDB, PostgreSQL, HeidiSQL
+* **Sistemas y Servidores:** Linux (Ubuntu), WSL, Apache, NGINX, VirtualBox
+* **Herramientas de Desarrollo:** Git, GitHub, GitLab, StarUML, VS Code, Arduino IDE
+
+---
+
+### 📊 Estadísticas de GitHub
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Carolina04z&show_icons=true&theme=radical" />
+</p>

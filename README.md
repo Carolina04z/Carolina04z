@@ -20,8 +20,13 @@ Estudiante de Ingeniería de Sistemas y Telecomunicaciones en sexto semestre, ap
 
 ---
 
-### 📊 Estadísticas de GitHub
-### 📸 Sobre mí
-<p align="center">
-  <img src="https://republicanaradio.com/wp-content/uploads/2021/10/Caracteristicas_de_un_Ingeniero_de_sistemas_URepublicacanaRadio_emisora_radio_universitaria_estudiar_bogota_colombia_imag2.jpg" alt="Mi foto de perfil" width="250" />
-</p>
+### 📊 Estadísticas y Actividad
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Carolina04z&theme=radical&background=0d1117)](https://git.io/streak-stats)
+
+---
+
+### 🏆 Mis Logros en GitHub
+- 💻 Contribuciones constantes en desarrollo backend, bases de datos y sistemas.
+- 🚀 Creación y gestión de repositorios con control de versiones avanzado (Git, GitLab y GitHub).
+- 
